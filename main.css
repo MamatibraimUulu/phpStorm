@@ -1,0 +1,11 @@
+.blue { color: darkgreen; font-size: 20px; font-weight: bold; }
+.maroon { color: maroon; font-style: italic;}
+.fullname { width: 100%; height: 52px; }
+.picture { width: 100%; height: 256px; }
+.picture1 { width: 450px; height: 256px; margin: 0px 0px; position: relative;}
+.picture2 { width: 450px; height: 256px; margin:-256px 451px; position: absolute;}
+.picture3 { width: 449px; height: 256px; margin:-256px 902px; position: absolute;}
+.inf {width: 100%; height: auto;}
+.pic { width: 450px; height: 270px;}
+.block{width: 100%; height: 280px; background: red;}
+.container{display: grid; grid-template-columns: 1fr 1fr 1fr; grid-column-gap: 10px; background: greenyellow;}
